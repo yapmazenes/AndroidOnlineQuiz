@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81098209873",
+    "firebase_url": "https://onlinequizapp-ddcec.firebaseio.com",
+    "project_id": "onlinequizapp-ddcec",
+    "storage_bucket": "onlinequizapp-ddcec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81098209873:android:19b193e943d8ec2d",
+        "android_client_info": {
+          "package_name": "com.example.pc.onlinequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81098209873-ulcgodett1f7ds92k93u252dqbin98gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.onlinequizapp",
+            "certificate_hash": "483c8bd9667d062d04641b671259a58e2f07b04d"
+          }
+        },
+        {
+          "client_id": "81098209873-eedtodskafof39nr78j6lc0nrp73m273.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your Firebase Key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81098209873-eedtodskafof39nr78j6lc0nrp73m273.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2f3c</color>
+    <color name="colorPrimaryDark">#030513</color>
+    <color name="colorAccent">#565866</color>
+
+    <color name="bluedark">#2f333f</color>
+    <color name="bluelight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#FF5722</color>
+
+
+    <color name="btnSignColor">#60a0ef</color>
+    <color name="rankingLayoutColor">#65bae7</color>
+    <color name="app_primary">#65bae7</color>
+    <color name="app_primary_pressed">#c73737</color>
+    <color name="app_ripple">#65bae7</color>
+
+</resources>
